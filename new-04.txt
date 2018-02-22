@@ -12,4 +12,4 @@ Dialog nr 004
 – Na dworze –40.
 – 4 dni.
 – Kamaz stoi pod wod¹.
-– To bez sensu, ci¹gle zmieniasz warunki! Po co mi w ogóle to opowiadasz. Wy developerzy ci¹gle opowiadacie jakieœ bzdury zamaist po prostu oszacowaæ czas swojej pracy.
+– To bez sensu, ci¹gle zmieniasz warunki! Po co mi w ogóle to opowiadasz. Wy developerzy ci¹gle opowiadacie jakieœ bzdury zamiast po prostu oszacowaæ czas swojej pracy.
