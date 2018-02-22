@@ -1,15 +1,15 @@
 
-Dialog nr 004
-– S³uchaj, jesteœ developerem. Powiedz, dlaczego tak czêsto nieprawid³owo szacujecie czas na stworzenie softu?
-– WyobraŸ sobie, ¿e musisz roz³adowaæ ciê¿arówkê. Ile czasu to zajmie?
-– Parê godzin.
-– To Kamaz.
-– 8 godzin.
-– Kamaz za³adowany piaskiem.
-– 12 godzin
-– Nie masz ³opaty i narzêdzi, tylko rêcê.
-– 2 dni.
-– Na dworze –40.
-– 4 dni.
-– Kamaz stoi pod wod¹.
-– To bez sensu, ci¹gle zmieniasz warunki! Po co mi w ogóle to opowiadasz. Wy developerzy ci¹gle opowiadacie jakieœ bzdury zamiast po prostu oszacowaæ czas swojej pracy.
+Dialog nr 004 (ten dialog jako jedyny jest branÅ¼owy)
+â€“ SÅ‚uchaj, jesteÅ› developerem. Powiedz, dlaczego tak czÄ™sto nieprawidÅ‚owo szacujecie czas na stworzenie softu?
+â€“ WyobraÅº sobie, Å¼e musisz rozÅ‚adowaÄ‡ ciÄ™Å¼arÃ³wkÄ™. Ile czasu to zajmie?
+â€“ ParÄ™ godzin.
+â€“ To Kamaz.
+â€“ 8 godzin.
+â€“ Kamaz zaÅ‚adowany piaskiem.
+â€“ 12 godzin
+â€“ Nie masz Å‚opaty i narzÄ™dzi, tylko rÄ™cÄ™.
+â€“ 2 dni.
+â€“ Na dworze â€“40.
+â€“ 4 dni.
+â€“ Kamaz stoi pod wodÄ….
+â€“ To bez sensu, ciÄ…gle zmieniasz warunki! Po co mi w ogÃ³le to opowiadasz. Wy developerzy ciÄ…gle opowiadacie jakieÅ› bzdury zamiast po prostu oszacowaÄ‡ czas swojej pracy.
