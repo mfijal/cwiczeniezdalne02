@@ -1,0 +1,15 @@
+
+Dialog nr 004
+– S³uchaj, jesteœ developerem. Powiedz, dlaczego tak czêsto nieprawid³owo szacujecie czas na stworzenie softu?
+– WyobraŸ sobie, ¿e musisz roz³adowaæ ciê¿arówkê. Ile czasu to zajmie?
+– Parê godzin.
+– To Kamaz.
+– 8 godzin.
+– Kamaz za³adowany piaskiem.
+– 12 godzin
+– Nie masz ³opaty i narzêdzi, tylko rêcê.
+– 2 dni.
+– Na dworze –40.
+– 4 dni.
+– Kamaz stoi pod wod¹.
+– To bez sensu, ci¹gle zmieniasz warunki! Po co mi w ogóle to opowiadasz. Wy developerzy ci¹gle opowiadacie jakieœ bzdury zamaist po prostu oszacowaæ czas swojej pracy.
