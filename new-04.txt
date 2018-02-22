@@ -13,3 +13,11 @@ Dialog nr 004 (ten dialog jako jedyny jest branżowy)
 – 4 dni.
 – Kamaz stoi pod wodą.
 – To bez sensu, ciągle zmieniasz warunki! Po co mi w ogóle to opowiadasz. Wy developerzy ciągle opowiadacie jakieś bzdury zamiast po prostu oszacować czas swojej pracy.
+
+
+The survey found that British people are officially the worst language learners in Europe. 
+Stats in short: 
+'62% of people can't speak any other language than English. 
+38% of Brits speak at least one foreign language, 
+18% speak two 
+and only 6% of the population speak three or more.
